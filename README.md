@@ -2,7 +2,7 @@
 
 A Laravel application with multi-tenancy support using stancl/tenancy package with single database approach using PostgreSQL schemas. Designed for React SaaS applications.
 
-## Features
+## Feature
 
 - Multi-tenancy with single database
 - PostgreSQL schema-based tenant isolation
